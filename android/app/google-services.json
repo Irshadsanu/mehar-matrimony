@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "476466047645",
+    "project_id": "meher-nikkah",
+    "storage_bucket": "meher-nikkah.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476466047645:android:0b08a6f135d5cb09868274",
+        "android_client_info": {
+          "package_name": "com.spine.meher_nikkah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476466047645-pj080fgr0adf43sui3hse3to5rvf9eah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3cp3Gh-BHWsFL9U1bf35u-WmqG29heaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476466047645-pj080fgr0adf43sui3hse3to5rvf9eah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
